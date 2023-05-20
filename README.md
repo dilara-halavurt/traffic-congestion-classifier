@@ -1,2 +1,6 @@
 # traffic-congestion-classifier
 Automated Monitoring and Analysis of Traffic Congestion using Car Detection and Speed Calculation Algorithms
+
+
+Urban traffic congestion continues to escalate, intensifying issues such as longer travel times, increased pollution, and economic detriments. Traditional methods of traffic monitoring, including fixed sensors, manual counting, and GPS data, have limitations in accuracy, scalability, and cost. As the population shifts increasingly towards urban regions, more robust and efficient solutions are needed. This project proposes a novel approach that leverages computer vision for automated traffic monitoring and analysis. Utilizing existing traffic camera infrastructure, our method offers real-time, accurate insights into traffic conditions. Our model, informed by cutting-edge computer vision techniques, will be assessed for performance using real-world data. The objective is to equip traffic management and urban planning sectors with accurate, timely data, promoting improved traffic control and planning strategies. The end goal is a reduction in congestion and a lessening of its negative impacts on urban living.
+Keywords: Urban Traffic Congestion, Computer Vision, Automated Traffic Monitoring, Real-time Analysis, Traffic Camera Infrastructure, Traffic Management, Urban Planning, Scalability, Accuracy, Real-world Data.
